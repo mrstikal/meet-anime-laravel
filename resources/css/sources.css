@@ -1,0 +1,2 @@
+@source "./js/**/*.{js,ts,jsx,tsx}";
+@source "./views/**/*.blade.php";
